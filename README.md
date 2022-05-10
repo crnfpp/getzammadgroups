@@ -4,7 +4,10 @@ Even though it's possible to obtain a group list with Group.find_each in the Rub
 Here's a simple script to have an up-to-date list with Google App Script.
 
 Ruby equivalent:
+
 Group.find_each
 
+
 Wget/Curl equivalent:
+
 wget https://_____________/api/v1/groups
